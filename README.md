@@ -3,6 +3,6 @@
 ## Install
 
 ```bash
-brew tap homebrew/pulsar
+brew tap subspace/homebrew-pulsar
 brew install pulsar
 ```
